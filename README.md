@@ -2,3 +2,6 @@
 
 ## Projemin konusu: 
 > İklim değişikliği
+
+## Projemin türü: 
+> Websitesi ve yapay zeka
